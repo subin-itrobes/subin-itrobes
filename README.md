@@ -22,8 +22,7 @@ I’m always open to collaborating on:
 
 ## 📫 How to Reach Me  
 - **GitHub:** Right here! 👨‍💻  
-- **Email:** [Your Email Here] 📩  
-- **LinkedIn:** [Your LinkedIn Here] 🔗  
+- **Email:** [subin@itrobes.com] 📩  
 
 ## 😄 Fun Fact  
 I love exploring **new tech stacks**, but my real superpower? **Refactoring messy code into clean, efficient magic!** ✨  
